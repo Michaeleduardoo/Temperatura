@@ -97,8 +97,8 @@ h2 {
 @media screen and (max-width: 414px) {
 
     input {
-        padding: 10px;
-        font-size: 10px;
+        padding: 11px;
+        font-size: 15px;
         background: #7c7c7c2b;
         width: 80%;
         color: #fff;
@@ -107,8 +107,13 @@ h2 {
     }
 
     .Lupa {
-        height: 10px;
-        width: 14px;
+        height: 23px;
+        width: 25px;
+    
+    }
+
+    button{
+        padding-bottom: 3px;
     }
 
     h2 {
