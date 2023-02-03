@@ -35,6 +35,7 @@ input {
     width: calc(100% - 100px);
     color: #fff;
     padding-left: 15px;
+    width: 85%;
 
 }
 
